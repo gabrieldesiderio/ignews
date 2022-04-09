@@ -1,0 +1,8 @@
+{
+  "_latest": "0.3.5",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator",
+  "apiEndpoint": "https://gdignews.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ]
+}
